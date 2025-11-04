@@ -141,3 +141,4 @@ Add connectors from the `/connectors` directory or external repos.
 
 ---
 
+![alt text](image.png)
